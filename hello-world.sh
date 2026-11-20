@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Storefront application check passed successfully - Build v1"
+echo "Storefront application check passed successfully - Updated Build v2"
